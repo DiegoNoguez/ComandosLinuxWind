@@ -2,5 +2,12 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 60px;
     font-style: unset;
-    
+ }
+ p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-style: initial;
+ }
+ .contenedor1 {
+    display: flexbox;
  }
